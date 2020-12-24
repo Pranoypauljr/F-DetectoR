@@ -7,7 +7,7 @@ ML integrated web app to predict the genuinity of transactions by inputting the 
 - Pandas
 - Numpy
 - pylab
--matplotlib
+- matplotlib
 
 # FRAMEWORKS USED
 - FLASK
