@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # F-DETECTOR
 
 ML integrated web app to predict the genuinity of transactions by inputting the case details 
@@ -59,4 +59,4 @@ flask run
 ```
 http://127.0.0.1:5000/
 ```
->>>>>>> 21ab4e3fee7afe7f67ce2d162523d13484e4933b
+
